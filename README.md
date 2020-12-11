@@ -1,23 +1,9 @@
-### Hi there 👋
-
-<!--
-**yaua/yaua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi 👋
 A man in the big world. It is awful if you do not know what to live for...
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-Life is short, better leave something useful for others.
-- I'm doing a lot of research on Qt/C++, and a few other languages.
-- I like programming, reading, and make new friends.
-
+- 🔭 I’m doing a lot of research on Qt/C++, and a few other languages.
+- 🌱 I’m currently learning what ever I can
+- 🤔 I like programming, reading, and make new friends.
+- 😄 Life is short, better leave something useful for others.
 ## I known
 <p style="font-size:11px">
 <i>Platforms: 
@@ -30,3 +16,16 @@ Life is short, better leave something useful for others.
 <p style="font-size:11px">
 <i>Language: 
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" width="24"/></code><code><img src="https://www.svgrepo.com/show/255832/sql.svg" width="24"/></code><code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="24"/></code></i></p>
+
+<!--
+**yaua/yaua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+- 🔭 I’m doing a lot of research on Qt/C++, and a few other languages.
+- 🌱 I’m currently learning what ever I can
+- 🤔 I’m looking for help with everyone
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
